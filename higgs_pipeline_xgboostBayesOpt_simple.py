@@ -27,7 +27,7 @@ Objectives:
 # 1.1 Data manipulation and plotting modules
 import numpy as np
 import pandas as pd
-
+import pandas as pd
 
 # 1.2 Data pre-processing
 #     z = (x-mean)/stdev
